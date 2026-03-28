@@ -1,0 +1,902 @@
+[
+  {
+    "eval_id": "EVAL_00899",
+    "model_type": "teacher",
+    "image_url": "https://www.hasli.in/cdn/shop/products/IMG_4592_800x.jpg?v=1635338814",
+    "summary": "A floral printed kurti with a V-neck and three-quarter sleeves, paired with matching wide-leg palazzo pants. The fabric appears lightweight and flowing, with a mix of red, orange, white, and navy blue floral motifs on a dark blue base. The silhouette is loose and draped, with a layered, asymmetrical hemline.",
+    "recommended_garment": "A solid navy blue or deep indigo cropped jacket or duster-style capelet with a subtle metallic trim, worn open over the kurti to add structure and contrast.",
+    "color_logic": "The deep navy blue of the recommended jacket complements the dark blue base of the kurti, creating a harmonious monochromatic foundation. The subtle metallic trim adds visual interest without clashing with the vibrant floral print, while the solid color prevents the look from becoming visually chaotic.",
+    "silhouette_logic": "The cropped, structured jacket adds definition to the upper body, balancing the loose, flowing silhouette of the kurti and palazzo pants. This contrast creates a more intentional, styled look rather than a casual, unstructured ensemble."
+  },
+  {
+    "eval_id": "EVAL_00734",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/018040LPIN_6.png",
+    "summary": "A soft pink, long-sleeved kurta with a subtle cross-like printed pattern, featuring a round neckline and button-front closure with dark buttons.",
+    "recommended_garment": "A high-waisted, wide-leg palazzo pants in a neutral beige or cream tone with a subtle texture like linen or cotton blend.",
+    "color_logic": "The soft pink of the kurta pairs beautifully with neutral beige or cream, creating a harmonious, earthy contrast that enhances the garment's gentle hue without overwhelming it. This pairing follows the classic 'complementary neutral' rule, allowing the pink to stand out while maintaining a balanced, elegant palette.",
+    "silhouette_logic": "The relaxed, flowing silhouette of wide-leg palazzo pants complements the soft, loose drape of the kurta, creating a cohesive, effortless ethnic look. The vertical lines of the pants elongate the figure and balance the round neckline of the kurta, enhancing overall proportion and grace."
+  },
+  {
+    "eval_id": "EVAL_00995",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/010440XLORA_1.png",
+    "summary": "Orange short-sleeve T-shirt with floral graphic",
+    "recommended_garment": "Light blue denim jeans",
+    "color_logic": "Vibrant orange contrasts with classic denim blue, creating a fresh, youthful vibe",
+    "silhouette_logic": "T-shirt's relaxed fit with jeans' straight cut offers a balanced, casual silhouette"
+  },
+  {
+    "eval_id": "EVAL_00886",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/014324LPEA_5.png",
+    "summary": "A soft peach-colored, embroidered kurti with intricate silver and purple threadwork, featuring a round neckline and flared sleeves, with a traditional Indian ethnic design.",
+    "recommended_garment": "A high-waisted, flared peach-colored palazzo pants with subtle gold embroidery along the hem, in a matching fabric texture.",
+    "color_logic": "The peach base color creates a harmonious monochromatic look, while the gold embroidery on the palazzo pants adds a touch of luxury and contrast without clashing, enhancing the garment's elegance.",
+    "silhouette_logic": "The flared silhouette of the palazzo pants complements the relaxed, flowing sleeves of the kurti, creating a balanced and graceful overall silhouette that elongates the figure."
+  },
+  {
+    "eval_id": "EVAL_00880",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00447DEEPINOONESI_2.webp?v=1765947357098",
+    "summary": "A solid, deep red square scarf or pocket square, likely made of silk or a similar smooth fabric, folded neatly into a diamond shape. It has no pattern and a rich, saturated hue.",
+    "recommended_garment": "A crisp white or ivory kurta with subtle embroidery on the yoke, paired with a matching red or maroon sharara or palazzo pants for a coordinated ethnic look.",
+    "color_logic": "The deep red of the scarf creates a bold, confident statement that pairs beautifully with white or ivory, which acts as a neutral canvas to let the red pop. The complementary red in the pants creates a harmonious monochromatic effect, while the white adds contrast and sophistication.",
+    "silhouette_logic": "The square, structured fold of the scarf adds a touch of formality and dimension to the neckline or lapel area. Pairing it with a fitted kurta and flowing sharara or palazzo pants balances the structured top with fluid movement, creating a balanced silhouette that is both elegant and dynamic."
+  },
+  {
+    "eval_id": "EVAL_00671",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/014501XLPEA_1.png",
+    "summary": "A light pink short-sleeve T-shirt with a subtle embroidered logo, paired with black pants for a sleek, monochrome look.",
+    "recommended_garment": "Black high-waisted pants",
+    "color_logic": "The neutral black pants provide a sharp contrast to the soft pink top, creating a balanced, sophisticated color scheme.",
+    "silhouette_logic": "The fitted black pants complement the relaxed T-shirt silhouette, offering a streamlined, modern look."
+  },
+  {
+    "eval_id": "EVAL_00462",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLMTR02BEI30_3.webp?v=1765963797812",
+    "summary": "Beige slim-fit trousers with a tailored cut, featuring a straight leg silhouette and a clean front.",
+    "recommended_garment": "A pair of beige slim-fit trousers with a straight leg silhouette and a clean front.",
+    "color_logic": "The neutral beige color provides a sophisticated base that complements the deep red top, creating a balanced, warm palette.",
+    "silhouette_logic": "The straight-leg cut of the trousers offers a sleek, streamlined silhouette that complements the tailored top, ensuring a polished overall look."
+  },
+  {
+    "eval_id": "EVAL_00965",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/015196LGRE_7.png",
+    "summary": "A navy blue, solid-colored, V-neck blouse with three-quarter sleeves, featuring a relaxed fit and a subtle drop shoulder, paired with white slim-fit pants and beige heels.",
+    "recommended_garment": "A structured, knee-length navy blue trench coat with peak lapels and a belted waist, worn open over the blouse.",
+    "color_logic": "The navy blue trench coat complements the existing navy blouse, creating a monochromatic look that is sophisticated and cohesive. The white pants provide a clean contrast that makes the navy stand out, while the coat adds depth and dimension without clashing.",
+    "silhouette_logic": "The structured, tailored silhouette of the trench coat balances the relaxed fit of the blouse and the slim pants, adding vertical structure and elongating the figure. The belted waist accentuates the waistline, enhancing the overall silhouette harmony."
+  },
+  {
+    "eval_id": "EVAL_00164",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/023826XXLMAR2_1.png",
+    "summary": "A deep red, long-sleeved, A-line dress with a V-neckline and intricate gold and white embroidery along the neckline and sleeve hems. The fabric appears lightweight and flowing, with a relaxed, draped silhouette.",
+    "recommended_garment": "A pair of cream or ivory-colored, embellished embroidered churidar pants or a matching red dupatta with gold border to add dimension and contrast.",
+    "color_logic": "The deep red of the dress is rich and bold; pairing it with cream or ivory creates a classic, elegant contrast that highlights the garment's vibrancy without overwhelming it. Gold accents in the embroidery will harmonize with any gold detailing on the complementary piece, creating a cohesive, luxurious look.",
+    "silhouette_logic": "The A-line silhouette of the dress is soft and flowing; pairing it with fitted churidar pants or a draped dupatta adds structure and balance, preventing the look from appearing too loose or heavy. The contrast in silhouette enhances the overall visual appeal."
+  },
+  {
+    "eval_id": "EVAL_00336",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/014300XLOLI2_3.png",
+    "summary": "A long, flowing A-line kurta with a white and olive green striped pattern, featuring a V-neck and three-quarter sleeves, paired with matching olive green pants.",
+    "recommended_garment": "Matching olive green pants",
+    "color_logic": "The olive green pants complement the muted tones of the striped kurta, creating a cohesive earthy palette.",
+    "silhouette_logic": "The A-line kurta's length and the straight cut of the pants provide a balanced, elongated silhouette that is both comfortable and stylish."
+  },
+  {
+    "eval_id": "EVAL_00042",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/019708MULXL_6.png",
+    "summary": "A fitted, short-sleeved blouse with a square neckline, featuring a monochromatic abstract print in black, white, and gray tones. The fabric appears lightweight and drapes softly, with gathered detailing at the neckline and a tie-waist accent.",
+    "recommended_garment": "A high-waisted, wide-leg palazzo pants in a solid charcoal gray or deep navy, with a subtle satin finish for contrast.",
+    "color_logic": "The monochromatic palette of the blouse allows for seamless extension into a complementary neutral tone like charcoal gray or deep navy, creating visual harmony without clashing. The subtle sheen of satin on the pants adds dimension while maintaining the sophisticated, muted aesthetic.",
+    "silhouette_logic": "The fitted, gathered blouse creates a structured upper silhouette, which pairs beautifully with the flowing, voluminous palazzo pants to balance the proportions. The wide-leg cut elongates the lower body, counteracting the potential boxiness of the square neckline and creating a graceful, balanced line from top to bottom."
+  },
+  {
+    "eval_id": "EVAL_00045",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/017872SEAGREXL_6.png",
+    "summary": "A V-neck cotton blouse with a floral print, featuring coral flowers and dark green stems on a light mint base.",
+    "recommended_garment": "A matching cotton saree with a similar floral print, offering a cohesive ethnic look.",
+    "color_logic": "The coral floral print on the blouse harmonizes with the saree's floral motif, creating a cohesive color story.",
+    "silhouette_logic": "The blouse's V-neck and relaxed fit allow the saree to drape elegantly, while the saree's pleated drape adds volume to the overall silhouette."
+  },
+  {
+    "eval_id": "EVAL_00667",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/005914MSKYBLU_4.png",
+    "summary": "A light blue short-sleeve T-shirt with a crew neck, presented as a complete outfit.",
+    "recommended_garment": "Dark denim jeans",
+    "color_logic": "The cool blue of the T-shirt complements the deep black of the jeans, creating a balanced monochrome look.",
+    "silhouette_logic": "The relaxed fit of the T-shirt with the slim silhouette of the jeans offers a classic, casual silhouette."
+  },
+  {
+    "eval_id": "EVAL_00072",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/018800XLPEA_1.png",
+    "summary": "A pink cropped T-shirt with a small rainbow graphic, paired with high-waisted denim shorts.",
+    "recommended_garment": "Denim shorts with a high waist, light wash.",
+    "color_logic": "The pink top provides a soft, feminine hue that complements the classic blue denim, creating a balanced pastel palette.",
+    "silhouette_logic": "The cropped T-shirt's relaxed fit with the high-waisted shorts offers a balanced, youthful silhouette that is both comfortable and stylish."
+  },
+  {
+    "eval_id": "EVAL_00039",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/000622L40GRE_4.png",
+    "summary": "A lime green kurti with three-quarter sleeves and a straight cut, featuring a repeating embroidered pattern of stylized trees or leaves in contrasting dark green and brown tones. Paired with matching wide-leg palazzo pants, the outfit has a modern, ethnic fusion silhouette with a relaxed, flowing drape.",
+    "recommended_garment": "A matching lime green dupatta with a subtle border of the same tree motif, draped over the shoulders or elegantly tied at the waist to add volume and texture.",
+    "color_logic": "The lime green base is vibrant and energetic; pairing it with a complementary dupatta in the same hue creates visual harmony and cohesion, while the subtle border adds depth without overwhelming the outfit. The dark green and brown embroidery on the kurti can be echoed in the dupatta's border for a unified, artisanal look.",
+    "silhouette_logic": "The straight-cut kurti and wide-leg palazzo pants create a balanced, elongated silhouette. A flowing dupatta adds softness and dimension to the upper body, balancing the structured lines of the pants and preventing the look from appearing too boxy or static."
+  },
+  {
+    "eval_id": "EVAL_00949",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/001202BLU42_2.png",
+    "summary": "A long-sleeved, button-up shirt with a blue and brown plaid pattern, featuring a classic collar and chest pocket. The fit appears to be regular or slightly relaxed, suitable for casual or smart-casual wear.",
+    "recommended_garment": "Light-wash denim jeans with a straight or slim fit, in a neutral tone like light blue or beige",
+    "color_logic": "The blue and brown plaid creates a balanced, earthy-toned palette; pairing it with light-wash denim in neutral tones enhances the casual aesthetic without clashing, allowing the shirt's pattern to stand out while maintaining visual harmony.",
+    "silhouette_logic": "The relaxed fit of the shirt pairs well with straight or slim-fit jeans to create a balanced, streamlined silhouette that avoids overwhelming the frame, ideal for a modern, effortless look."
+  },
+  {
+    "eval_id": "EVAL_00009",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/002061MMUL_1.png",
+    "summary": "A short-sleeved polo shirt with horizontal stripes in vibrant orange and blue, featuring a classic collar and button placket.",
+    "recommended_garment": "Dark indigo or black wide-leg trousers with a relaxed fit and subtle texture, such as linen or cotton blend.",
+    "color_logic": "The bold orange and blue stripes create a high-energy look; pairing with dark indigo or black grounds the outfit, providing visual contrast that prevents overwhelming the eye while allowing the shirt\u2019s colors to pop. Neutral dark tones complement vibrant hues without clashing.",
+    "silhouette_logic": "The relaxed fit of wide-leg trousers balances the structured collar and fitted torso of the polo, creating a harmonious silhouette that elongates the figure and avoids a boxy or tight appearance. The fluid drape of the trousers softens the structured polo."
+  },
+  {
+    "eval_id": "EVAL_00719",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/02838936BLU_1.png",
+    "summary": "A light blue long-sleeve crewneck sweater with subtle embroidered motifs on the chest.",
+    "recommended_garment": "Dark charcoal skinny jeans for a sleek, modern look.",
+    "color_logic": "The cool blue sweater provides a soft contrast to the dark jeans, creating a balanced, understated palette.",
+    "silhouette_logic": "The relaxed fit of the sweater combined with the slim silhouette of the jeans delivers a contemporary, streamlined silhouette."
+  },
+  {
+    "eval_id": "EVAL_00120",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/015605LIGGREFRESIZ_1.png",
+    "summary": "A vibrant pink saree with a gold-embroidered border, paired with a matching gold blouse, creating a regal ethnic ensemble.",
+    "recommended_garment": "A gold blouse with a subtle sheen, designed to be paired with the saree for a complete ethnic look.",
+    "color_logic": "The pink saree with gold accents mirrors the traditional Indian palette, while the gold blouse adds a touch of elegance.",
+    "silhouette_logic": "The saree's drape and the blouse's fitted cut create a balanced silhouette, allowing the saree to be the focal point while the blouse provides a structured base."
+  },
+  {
+    "eval_id": "EVAL_00115",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/0142983XLTEA_1.png",
+    "summary": "A navy blue short-sleeve kurta with a gold floral pattern, featuring a mandarin collar and a relaxed fit.",
+    "recommended_garment": "Light blue denim jeans with a straight cut.",
+    "color_logic": "The deep navy blue provides a rich base, while the light blue jeans add a casual, earthy contrast, balancing the kurta's elegance with a relaxed Western silhouette.",
+    "silhouette_logic": "The kurta's relaxed fit and the straight cut jeans create a balanced, modern ethnic fusion that is both stylish and comfortable."
+  },
+  {
+    "eval_id": "EVAL_00820",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/018615LYEL_2.png",
+    "summary": "A light yellow short-sleeve top with an intricate embroidered pattern, paired with black trousers.",
+    "recommended_garment": "Black high-waisted trousers",
+    "color_logic": "The neutral black trousers provide a sleek base that contrasts nicely with the soft yellow top, creating a balanced monochrome look.",
+    "silhouette_logic": "The fitted black trousers complement the relaxed, slightly cropped silhouette of the top, offering a polished yet casual bottom."
+  },
+  {
+    "eval_id": "EVAL_00940",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/023920MULXL_3.png",
+    "summary": "A long-sleeve, button-down shirt with a plaid pattern in deep navy and burnt orange.",
+    "recommended_garment": "A matching long-sleeve button-down shirt with a plaid pattern in deep navy and burnt orange.",
+    "color_logic": "The deep navy and burnt orange plaid creates a classic, earthy palette that is both stylish and comfortable for layering.",
+    "silhouette_logic": "The shirt's tailored cut and button-down collar give a sleek, modern silhouette that can be paired with a pair of jeans for a casual yet polished look."
+  },
+  {
+    "eval_id": "EVAL_00637",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/017693LMAR_5.png",
+    "summary": "A red blouse with a white block print pattern, featuring a mandarin collar and button-front closure.",
+    "recommended_garment": "A matching red saree with a white block print, styled as a blouse.",
+    "color_logic": "The red blouse and saree complement each other with a monochromatic scheme, creating a cohesive look.",
+    "silhouette_logic": "The blouse's structured cut and the saree's flowing drape provide a balanced silhouette that is both elegant and comfortable."
+  },
+  {
+    "eval_id": "EVAL_00463",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/000433XL4PIN_1.png",
+    "summary": "A knee-length, fitted A-line kurta with a floral pattern in shades of pink and white, featuring a round neckline and three-quarter sleeves.",
+    "recommended_garment": "White straight-leg pants with a subtle satin finish and a slight taper at the ankle.",
+    "color_logic": "The white pants create a clean, neutral base that allows the vibrant pink floral pattern of the kurta to stand out without visual competition, enhancing the garment's visual impact while maintaining a balanced, harmonious palette.",
+    "silhouette_logic": "The straight-leg, tapered pants complement the A-line silhouette of the kurta by providing a streamlined, elongated look that balances the volume of the top and creates a cohesive, modern ethnic silhouette."
+  },
+  {
+    "eval_id": "EVAL_00141",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/027773GREM_2.png",
+    "summary": "A white long-sleeve shirt with subtle tie-dye pattern, featuring a slim fit silhouette and a modern, clean cut.",
+    "recommended_garment": "A navy blue blazer with a structured, tailored cut, adding a sharp contrast to the light shirt.",
+    "color_logic": "The crisp white of the shirt paired with the deep navy blazer offers a classic, balanced color scheme that highlights the tie-dye pattern.",
+    "silhouette_logic": "The blazer's structured cut complements the slim fit of the shirt, creating a polished, refined silhouette."
+  },
+  {
+    "eval_id": "EVAL_00798",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00235PINL_3.webp?v=1762429644487",
+    "summary": "A vibrant red kurta with white floral and geometric print, featuring a round neckline, three-quarter sleeves, and a flared, knee-length silhouette with subtle pleating at the front.",
+    "recommended_garment": "White straight-leg pants with a subtle satin finish and a slight high waist for a modern contrast.",
+    "color_logic": "The bold red of the kurta is balanced by the crisp white of the pants, creating a classic complementary color scheme that enhances vibrancy without overwhelming the eye. White grounds the look and allows the intricate print to stand out.",
+    "silhouette_logic": "The flared, knee-length kurta pairs beautifully with straight-leg pants to create a balanced, elongated silhouette. The structured cut of the pants contrasts with the soft drape of the kurta, adding visual interest and preventing the outfit from appearing too bulky."
+  },
+  {
+    "eval_id": "EVAL_00179",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/002167L40RED_4.png",
+    "summary": "A red long-sleeve kurta with intricate gold embroidery and mirror work, featuring a V-neck and three-quarter sleeves.",
+    "recommended_garment": "A matching red palazzo pants with a pleated silhouette, providing a comfortable and flowing bottom.",
+    "color_logic": "The deep red of the kurta and palazzo creates a harmonious monochromatic look, while the gold accents add a touch of elegance.",
+    "silhouette_logic": "The kurta's fitted bodice and flowing palazzo pants offer a balanced silhouette that is both elegant and comfortable for a festive occasion."
+  },
+  {
+    "eval_id": "EVAL_00012",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/024991NAVBLUXXL_7.png",
+    "summary": "A navy blue and white abstract print short-sleeve shirt, with a relaxed fit and breathable fabric.",
+    "recommended_garment": "Grey linen blend A-line skirt, with a subtle geometric pattern.",
+    "color_logic": "The deep navy provides a grounding base, while the light grey adds a soft contrast, balancing the bold print.",
+    "silhouette_logic": "The A-line skirt's flow complements the shirt's relaxed cut, creating a balanced, feminine silhouette."
+  },
+  {
+    "eval_id": "EVAL_00616",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/026113BLU5XL_1.png",
+    "summary": "A navy blue, long-sleeved, button-up shirt with a subtle textured or dotted pattern, featuring a classic collar and a single chest pocket. The cut appears to be slim-fit with a slightly curved hem.",
+    "recommended_garment": "A pair of charcoal gray or black slim-fit trousers with a subtle pinstripe or textured weave for contrast, paired with a pair of sleek, minimalist leather loafers or oxford shoes.",
+    "color_logic": "The deep navy blue of the shirt pairs beautifully with charcoal gray or black, creating a sophisticated monochromatic palette that enhances the shirt's richness without overwhelming it. These neutral tones allow the shirt's texture and color to stand out while maintaining a balanced, elegant look.",
+    "silhouette_logic": "The slim-fit cut of the shirt pairs perfectly with slim-fit trousers to create a streamlined, modern silhouette that elongates the figure. This cohesive silhouette ensures a clean, tailored look that is both professional and stylish, avoiding any visual clutter or imbalance."
+  },
+  {
+    "eval_id": "EVAL_00229",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/018084XLTEA_3.png",
+    "summary": "A navy blue, long-sleeved, crew-neck t-shirt with a graphic print featuring three rectangular boxes with text, likely scientific or educational in theme. The fit appears relaxed and comfortable, suitable for casual or smart-casual wear.",
+    "recommended_garment": "A high-waisted, wide-leg white linen or cotton palazzo pants with subtle pleats or a relaxed drape, featuring a clean, minimalist cut.",
+    "color_logic": "The deep navy blue of the t-shirt creates a strong, sophisticated contrast with the crisp white of the palazzo pants, enhancing visual clarity and balance. This classic monochromatic pairing (navy and white) is universally flattering and timeless, allowing the graphic detail on the shirt to stand out without visual competition.",
+    "silhouette_logic": "The relaxed, slightly loose fit of the t-shirt pairs beautifully with the voluminous, flowing silhouette of the palazzo pants, creating a harmonious balance between structure and ease. The wide-leg cut elongates the lower half, visually counterbalancing the relaxed top and creating a graceful, elongated silhouette that is both modern and comfortable."
+  },
+  {
+    "eval_id": "EVAL_00626",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/019182XLBLUGRE_6.png",
+    "summary": "A light blue, solid-colored, button-up blouse with a round neckline and subtle pleating detail along the front placket. The fabric appears smooth and lightweight, suggesting a modern, minimalist style suitable for office or smart-casual wear.",
+    "recommended_garment": "A high-waisted, wide-leg palazzo pants in a neutral tone like beige or soft taupe, with a slightly textured fabric such as linen or cotton blend for contrast.",
+    "color_logic": "The soft blue of the blouse pairs beautifully with neutral earth tones like beige or taupe, creating a harmonious and balanced palette that avoids visual clash while adding depth. This pairing enhances the calm, sophisticated vibe of the outfit without overwhelming the eye.",
+    "silhouette_logic": "The relaxed, flowing silhouette of wide-leg palazzo pants complements the soft, structured drape of the blouse, creating a balanced, elongated silhouette that is both elegant and comfortable. The contrast in fabric texture adds visual interest while maintaining a cohesive, modern look."
+  },
+  {
+    "eval_id": "EVAL_00636",
+    "model_type": "teacher",
+    "image_url": "https://huesfab.com/cdn/shop/files/131.jpg?v=1742196728&width=1080",
+    "summary": "A teal-blue kurta with a repeating white geometric or floral print, featuring a mandarin collar, full-length sleeves, and a straight, slightly flared cut that falls to mid-thigh. The fabric appears lightweight and drapes softly.",
+    "recommended_garment": "White straight-leg churidar pants with a subtle satin finish for a modern touch",
+    "color_logic": "The crisp white of the churidar creates a high-contrast, clean visual break against the teal-blue kurta, enhancing the vibrancy of the print while maintaining a balanced, harmonious palette. White is a classic neutral that elevates the garment without competing with the bold color.",
+    "silhouette_logic": "The straight-leg churidar complements the kurta's straight, relaxed silhouette, creating a cohesive, streamlined look. The fitted cut of the churidar accentuates the waist and legs, balancing the volume of the kurta and elongating the figure, while the satin finish adds subtle elegance."
+  },
+  {
+    "eval_id": "EVAL_00816",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/003228SNAVBLU_1.png",
+    "summary": "A navy blue short-sleeved crew neck t-shirt with a vintage-style 'Roadrace 87' graphic in green and white, paired with light blue straight-cut jeans and navy slip-on shoes.",
+    "recommended_garment": "A navy blue cropped blazer with notched lapels and single-breasted design, in a lightweight wool-blend for a smart-casual look.",
+    "color_logic": "The navy blue of the blazer harmonizes with the t-shirt, creating a monochromatic base that is elevated by the light blue jeans. The subtle contrast between the deep navy and light blue adds visual interest without clashing, while the white accents in the graphic provide a clean, crisp counterpoint to the darker tones.",
+    "silhouette_logic": "The cropped blazer balances the relaxed fit of the t-shirt and straight-cut jeans, adding structure and definition to the upper body. It elongates the torso and creates a more intentional silhouette, preventing the outfit from appearing too casual or shapeless."
+  },
+  {
+    "eval_id": "EVAL_00710",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/016421XXLMUS_3.png",
+    "summary": "A mustard yellow, long-sleeved, crew-neck t-shirt with a graphic print on the chest featuring the word 'FASHION' and small portrait images, worn by a model with light blue jeans.",
+    "recommended_garment": "A high-waisted, wide-leg palazzo pant in a neutral tone like beige or light taupe, with subtle embroidery or a satin finish for elegance.",
+    "color_logic": "The mustard yellow is a warm, earthy tone that pairs beautifully with neutral beiges and taupes, creating a balanced, sophisticated palette that avoids clashing while enhancing the vibrancy of the top. This pairing is classic and universally flattering.",
+    "silhouette_logic": "The relaxed, slightly loose fit of the t-shirt pairs well with the voluminous, flowing silhouette of a palazzo pant, creating a harmonious contrast between the fitted upper body and the dramatic, airy lower half, which elongates the figure and adds visual interest."
+  },
+  {
+    "eval_id": "EVAL_00165",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/015053TEAXL_6.png",
+    "summary": "A dark teal or navy blue knee-length dress with a subtle abstract or floral pattern in earthy tones, featuring a round neckline, three-quarter sleeves, and a fitted bodice with button details. The skirt flares gently, suggesting a relaxed, flowing silhouette.",
+    "recommended_garment": "A pair of light beige or cream-colored, ankle-length, wide-leg trousers with a soft drape and minimal embellishment.",
+    "color_logic": "The neutral beige or cream complements the deep teal/navy without competing, creating a balanced, earthy palette that enhances the garment's richness while keeping the look grounded and sophisticated.",
+    "silhouette_logic": "The wide-leg trousers provide a contrasting, elongated silhouette that balances the flared skirt of the dress, preventing visual bulk and creating a harmonious, flowing line from top to bottom."
+  },
+  {
+    "eval_id": "EVAL_00377",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/028482TEAL_3.png",
+    "summary": "A pair of navy blue cotton shorts with an elastic waistband and a relaxed, straight-leg cut.",
+    "recommended_garment": "A pair of navy blue cotton shorts with an elastic waistband and a relaxed, straight-leg cut.",
+    "color_logic": "The deep navy blue provides a classic, understated color that stands out against the white background, while the cotton fabric ensures comfort and breathability.",
+    "silhouette_logic": "The straight-leg cut of the shorts offers a clean, modern silhouette that can be paired with various tops for a versatile ethnic fusion look."
+  },
+  {
+    "eval_id": "EVAL_00250",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/018866XLGRE_1.png",
+    "summary": "A dark green short-sleeved blouse with a polka dot pattern featuring white and multi-colored circular motifs, featuring a tie-neck design and ruffled sleeves.",
+    "recommended_garment": "High-waisted black wide-leg trousers with a subtle satin sheen and a slightly flared hemline.",
+    "color_logic": "The deep green of the blouse pairs elegantly with black, creating a classic, sophisticated contrast that allows the vibrant polka dot pattern to stand out without visual clash. Black grounds the look and enhances the richness of the green.",
+    "silhouette_logic": "The flared wide-leg trousers complement the ruffled sleeves and tie-neck detail by adding a balanced, flowing silhouette that elongates the figure and softens the overall look, preventing any visual heaviness."
+  },
+  {
+    "eval_id": "EVAL_00458",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/018912SIL38_2.webp?v=1758007066444",
+    "summary": "A white cropped blouse with a subtle pattern, featuring a square neckline and three-quarter sleeves.",
+    "recommended_garment": "A matching white churidar or palazzo pants for a complete ethnic outfit.",
+    "color_logic": "The white blouse and churidar create a monochromatic look that is elegant and cohesive.",
+    "silhouette_logic": "The cropped blouse with a fitted churidar provides a sleek, streamlined silhouette that accentuates the waist."
+  },
+  {
+    "eval_id": "EVAL_00364",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/019227NAVBLUL_3.png",
+    "summary": "A navy blue zip-up sweater with long sleeves, featuring a relaxed fit and a subtle zip detail.",
+    "recommended_garment": "White high-waisted trousers",
+    "color_logic": "Navy blue top with crisp white trousers creates a classic, clean contrast.",
+    "silhouette_logic": "The relaxed fit of the sweater with straight-leg trousers offers a balanced, streamlined silhouette."
+  },
+  {
+    "eval_id": "EVAL_00323",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00284BROM_3.webp?v=1761721054896",
+    "summary": "A knee-length, V-neck, three-quarter sleeve dress with a rich brown base and intricate floral and paisley print in red, green, and cream tones. The dress has a fitted bodice with a gathered waist and a flared skirt, giving it a feminine, flowing silhouette.",
+    "recommended_garment": "A cream or ivory-colored, cropped, fitted cropped cardigan or bolero jacket with subtle embroidery or lace detailing on the cuffs and neckline.",
+    "color_logic": "The cream or ivory cardigan provides a soft, neutral contrast that enhances the richness of the brown and red tones in the dress without overwhelming it. This creates a balanced, harmonious palette that allows the vibrant print to stand out while maintaining elegance.",
+    "silhouette_logic": "The cropped, fitted cardigan adds structure to the upper body, complementing the fitted bodice of the dress, while the cropped length ensures it doesn't compete with the flared skirt, allowing the dress's silhouette to remain the focal point. The fitted cut also accentuates the waist, enhancing the dress's flattering shape."
+  },
+  {
+    "eval_id": "EVAL_00785",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLMT17SAG36_6.webp?v=1768374270163",
+    "summary": "A pair of light grey slim-fit trousers with a subtle pinstripe pattern, featuring a tailored cut and a straight leg silhouette.",
+    "recommended_garment": "A white short-sleeve shirt, providing a clean, crisp base for the trousers.",
+    "color_logic": "The neutral grey of the trousers complements the crisp white of the shirt, creating a balanced monochrome look.",
+    "silhouette_logic": "The slim-fit trousers with a straight leg provide a sleek, streamlined silhouette that pairs well with the fitted shirt, offering a polished yet relaxed appearance."
+  },
+  {
+    "eval_id": "EVAL_00975",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/019089XLLIGGRA_1.png",
+    "summary": "Grey athletic leggings with a drawstring waist",
+    "recommended_garment": "Black sports bra",
+    "color_logic": "Monochromatic palette with black accentuates the grey leggings for a sleek look",
+    "silhouette_logic": "Fitted leggings with a drawstring waist complement the sporty silhouette of the sports bra"
+  },
+  {
+    "eval_id": "EVAL_00717",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/02808938PEA_2.png",
+    "summary": "A long-sleeve polo shirt with a zip-up collar, featuring a pastel pink and white striped pattern with black accents.",
+    "recommended_garment": "A matching long-sleeve polo shirt with a small black logo on the chest.",
+    "color_logic": "The pastel pink and white stripes provide a fresh, airy look, while the black accents add a touch of contrast and sophistication.",
+    "silhouette_logic": "The polo shirt's relaxed fit and long sleeves offer a comfortable, breathable silhouette suitable for casual wear."
+  },
+  {
+    "eval_id": "EVAL_00356",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/011254XLMAU_3.png",
+    "summary": "A mauve long-sleeved crew neck t-shirt with a rectangular graphic print on the chest, paired with light-wash ripped jeans and black sneakers. The t-shirt has a relaxed fit and a soft, muted tone.",
+    "recommended_garment": "A tailored, knee-length beige or light khaki dhoti-style kurta with subtle embroidery on the yoke and sleeves, worn with a matching waist belt and simple jutti sandals.",
+    "color_logic": "The muted mauve of the t-shirt harmonizes beautifully with earthy beige and khaki tones, creating a soft, grounded palette that feels both modern and culturally rooted. This pairing avoids clashing hues while adding depth through complementary neutrals.",
+    "silhouette_logic": "The relaxed, casual silhouette of the t-shirt pairs well with the fluid, draped lines of a dhoti kurta, creating a balanced contrast between structured and loose forms. The dhoti\u2019s natural drape elongates the lower half, balancing the relaxed top without overwhelming the overall look."
+  },
+  {
+    "eval_id": "EVAL_00631",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/0113534XLPIN_2.png",
+    "summary": "A light pink short-sleeve T-shirt with a relaxed fit, paired with slim black trousers and white sneakers.",
+    "recommended_garment": "Black slim-fit trousers",
+    "color_logic": "The black trousers provide a sleek, neutral base that contrasts nicely with the soft pink top, creating a balanced monochrome palette.",
+    "silhouette_logic": "The slim-fit trousers complement the relaxed T-shirt, offering a streamlined silhouette that is both comfortable and stylish."
+  },
+  {
+    "eval_id": "EVAL_00817",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/023457XSBLA_1.png",
+    "summary": "The garment is a black short-sleeved T-shirt with a colorful tropical print (featuring green, orange, and yellow elements) on the front, paired with high-waisted wide-leg dark denim jeans and light beige sneakers. The overall look is casual, streetwear-inspired with a modern, relaxed silhouette.",
+    "recommended_garment": "A structured, cropped beige or cream-colored blazer with notched lapels and single-breasted design, worn open over the T-shirt.",
+    "color_logic": "The neutral beige/cream of the blazer complements the black T-shirt and dark denim without clashing, while adding a touch of sophistication. It harmonizes with the light beige sneakers, creating a cohesive, elevated casual look. The neutral tone also balances the vibrant tropical print on the T-shirt, preventing visual overload.",
+    "silhouette_logic": "The cropped blazer adds vertical structure and definition to the upper body, which contrasts nicely with the loose, flowing wide-leg jeans. This creates a balanced silhouette that avoids overwhelming the relaxed fit of the jeans while adding a polished element. The cropped length ensures it doesn't compete with the wide-leg cut, maintaining the intended streetwear aesthetic."
+  },
+  {
+    "eval_id": "EVAL_00707",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/016185XXLNAVBLU_5.png",
+    "summary": "White and navy striped short-sleeve T-shirt with a subtle embroidered phrase.",
+    "recommended_garment": "Black and white striped short-sleeve T-shirt with a subtle embroidered phrase.",
+    "color_logic": "The white and navy striped pattern provides a classic contrast that is both stylish and easy to pair with various bottoms.",
+    "silhouette_logic": "The short-sleeve T-shirt offers a relaxed, casual silhouette that is versatile for layering with skirts or trousers."
+  },
+  {
+    "eval_id": "EVAL_00655",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLMDS14LIG42_2.webp?v=1767165639228",
+    "summary": "A white dhoti with olive green borders, a traditional South Indian garment, paired with a long-sleeve green shirt.",
+    "recommended_garment": "A white dhoti with olive green borders, a traditional South Indian garment, paired with a long-sleeve green shirt.",
+    "color_logic": "The white dhoti provides a clean base, while the olive green borders add a subtle accent, echoing the shirt's color for a cohesive look.",
+    "silhouette_logic": "The dhoti's flowing silhouette complements the shirt's structured cut, creating a balanced ethnic ensemble."
+  },
+  {
+    "eval_id": "EVAL_00695",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/01428840CRE_3.png",
+    "summary": "A beige long-sleeve henley shirt with a subtle black logo, paired with slim black jeans and high-top sneakers.",
+    "recommended_garment": "Black leather skinny jeans",
+    "color_logic": "Neutral beige top with sleek black jeans creates a balanced, monochrome look that highlights the silhouette.",
+    "silhouette_logic": "The slim-fit jeans complement the relaxed yet structured fit of the henley, offering a modern, streamlined silhouette."
+  },
+  {
+    "eval_id": "EVAL_00431",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/028923GRE40_3.png",
+    "summary": "A light grey, short-sleeved, button-up shirt with a collared neckline and ribbed detailing on the collar and sleeve cuffs. The fabric appears to be a textured knit or fine pique, giving it a casual yet refined look. The cut is slim-fitting, with a slightly curved hemline.",
+    "recommended_garment": "A pair of tailored, straight-leg charcoal grey trousers with a subtle pleat at the front, in a slightly heavier fabric like wool or cotton-blend for contrast and structure.",
+    "color_logic": "The light grey shirt pairs beautifully with a deeper charcoal grey to create a monochromatic palette with visual depth. This contrast in shade adds sophistication without overwhelming the eye, while the neutral tones remain versatile and timeless. The charcoal grey trousers ground the look and prevent the light grey from appearing too washed out.",
+    "silhouette_logic": "The slim-fit shirt pairs perfectly with tailored trousers that maintain a clean, structured silhouette. This creates a balanced, modern look that elongates the figure and avoids bulkiness. The slightly curved hem of the shirt adds a soft, contemporary touch that complements the straight-leg cut of the trousers."
+  },
+  {
+    "eval_id": "EVAL_00459",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLMTS23BLU2XL_3.webp?v=1768542197067",
+    "summary": "A blue crew-neck t-shirt with a distressed, faded 'BEUNIQ' graphic print in a slightly darker blue tone. The fabric appears soft and casual, with a ribbed collar and a small branded tag at the neckline. The overall style is relaxed, streetwear-inspired, and modern.",
+    "recommended_garment": "A high-waisted, wide-leg palazzo pants in a neutral beige or light khaki tone, with a subtle textured weave for contrast.",
+    "color_logic": "The muted blue of the t-shirt pairs beautifully with neutral beige or khaki tones, creating a balanced, earthy palette that avoids visual clash. This pairing enhances the casual, modern vibe while keeping the look grounded and sophisticated.",
+    "silhouette_logic": "The relaxed, boxy cut of the t-shirt pairs well with the voluminous, flowing silhouette of palazzo pants, creating a harmonious contrast between structured top and fluid bottom. This combination elongates the figure and adds visual interest without overwhelming the outfit."
+  },
+  {
+    "eval_id": "EVAL_00597",
+    "model_type": "teacher",
+    "image_url": "https://huesfab.com/cdn/shop/files/IMG_1876.webp?v=1753804603&width=4284",
+    "summary": "A red and white geometric-patterned kurta with a mandarin collar, long sleeves, and a fitted silhouette, hanging on a wooden hanger with a brand tag.",
+    "recommended_garment": "A high-waisted, wide-leg cream or beige palazzo pants with subtle embroidery or a satin finish for contrast.",
+    "color_logic": "The bold red of the kurta pairs beautifully with neutral cream or beige tones, creating a balanced, elegant contrast that allows the vibrant pattern to stand out without visual clash.",
+    "silhouette_logic": "The fitted kurta's structured silhouette pairs well with the flowing, voluminous palazzo pants, creating a harmonious balance between form-fitting top and loose bottom, enhancing both comfort and visual drama."
+  },
+  {
+    "eval_id": "EVAL_00694",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/028207XLMAR_3.png",
+    "summary": "Maroon short-sleeve polo shirt with a slim-fit, light grey jeans, and black sneakers.",
+    "recommended_garment": "Black leather sneakers with white soles.",
+    "color_logic": "Maroon polo contrasts with light grey jeans, creating a balanced, earthy palette.",
+    "silhouette_logic": "Slim-fit jeans with a relaxed polo create a modern, casual silhouette."
+  },
+  {
+    "eval_id": "EVAL_00984",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/024988WHI4XL_7.png",
+    "summary": "A light-colored, possibly white or pale lavender, button-up shirt with an intricate geometric and tribal-inspired pattern in shades of blue, gray, and beige. The fabric appears lightweight and the design is dense with repeating motifs, suggesting a bohemian or ethnic fusion style.",
+    "recommended_garment": "A high-waisted, wide-leg palazzo pants in a solid neutral tone like beige or soft taupe, with a slightly relaxed fit and subtle pleating for movement.",
+    "color_logic": "The neutral beige or taupe of the palazzo pants complements the shirt's light base and earthy pattern tones without competing, allowing the shirt's intricate design to remain the focal point. The soft, muted palette creates a harmonious, grounded look that enhances the garment's bohemian aesthetic.",
+    "silhouette_logic": "The relaxed, flowing silhouette of the palazzo pants balances the structured, patterned shirt, preventing visual heaviness. The wide legs elongate the figure and add a sense of ease and movement, which pairs well with the shirt's detailed, busy pattern and creates a balanced, flowing silhouette from top to bottom."
+  },
+  {
+    "eval_id": "EVAL_00683",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/019821XLBLA_5.png",
+    "summary": "A black base blouse with a vibrant red and white floral or paisley-inspired print, featuring a V-neckline and a relaxed, flowing silhouette with subtle pleating or gathering at the neckline and shoulders.",
+    "recommended_garment": "A high-waisted, wide-leg palazzo pants in a solid cream or off-white color with a subtle satin sheen, featuring a straight, flowing cut that drapes elegantly.",
+    "color_logic": "The black base of the blouse creates a strong contrast with the cream/off-white palazzo pants, allowing the bold red and white print to stand out without visual competition. The neutral cream tone complements the red accents in the print while adding a soft, luxurious contrast that balances the vibrancy.",
+    "silhouette_logic": "The relaxed, flowing silhouette of the blouse pairs beautifully with the wide-leg palazzo pants, creating a harmonious, elongated, and graceful overall look. The soft drape of both pieces enhances fluid movement and creates a balanced, effortless silhouette that is both modern and elegant."
+  },
+  {
+    "eval_id": "EVAL_00583",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/029628BLUL_2.png",
+    "summary": "A light blue, short-sleeved button-up shirt with a tropical leaf pattern, featuring a classic collar and rolled-up sleeves, worn by a man.",
+    "recommended_garment": "Black tailored trousers with a slim fit, slightly tapered at the ankle, with a subtle sheen for contrast.",
+    "color_logic": "The light blue of the shirt pairs beautifully with black, creating a classic, high-contrast look that makes the shirt's pattern pop while maintaining a sophisticated and balanced palette. Black is a timeless neutral that enhances the vibrancy of the blue without clashing.",
+    "silhouette_logic": "The slim-fit trousers complement the tailored, structured cut of the shirt, creating a cohesive, modern silhouette. The tapered ankle detail elongates the leg and balances the volume of the shirt's pattern, preventing a bulky appearance."
+  },
+  {
+    "eval_id": "EVAL_00154",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/001528M38GRE_5.png",
+    "summary": "A long, floor-length A-line dress with intricate embroidery, featuring a fitted bodice and a flared skirt, paired with a matching dupatta.",
+    "recommended_garment": "A matching embroidered dupatta for a cohesive ethnic look.",
+    "color_logic": "The muted pastel tones of the dress are complemented by the rich reds and golds of the dupatta, creating a harmonious palette.",
+    "silhouette_logic": "The A-line silhouette of the dress provides a graceful, flowing line, while the dupatta adds a layer of elegance and completes the ethnic ensemble."
+  },
+  {
+    "eval_id": "EVAL_00382",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/015283XLGRE_6.png",
+    "summary": "A semi-sheer, long-sleeved blouse with a V-neckline and button-front closure, featuring a muted abstract print in shades of grey, beige, and soft pink. The fabric appears lightweight and flowing, with a relaxed, slightly loose fit.",
+    "recommended_garment": "A high-waisted, wide-leg palazzo pants in a solid ivory or off-white color, with a subtle satin finish for a touch of elegance.",
+    "color_logic": "The neutral, muted tones of the blouse (grey, beige, soft pink) harmonize beautifully with ivory or off-white, creating a balanced, sophisticated palette that allows the abstract print to stand out without visual clash. The neutral base enhances the garment\u2019s softness and prevents overwhelming the look.",
+    "silhouette_logic": "The loose, flowing silhouette of the blouse pairs perfectly with wide-leg palazzo pants, creating a balanced, elongated, and graceful silhouette. The relaxed fit of the blouse complements the fluidity of the palazzo pants, enhancing the overall ease and elegance of the outfit."
+  },
+  {
+    "eval_id": "EVAL_00032",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00409BLUFRESIZ_2.webp?v=1765169923636",
+    "summary": "A light pink cotton saree with a subtle geometric pattern, featuring blue accents.",
+    "recommended_garment": "A matching light pink cotton saree with a blue geometric pattern.",
+    "color_logic": "The soft pink base with blue accents creates a harmonious pastel palette that feels fresh and feminine.",
+    "silhouette_logic": "The saree's drape and pleated design provide a classic, flowing silhouette that complements the garment's elegant drape."
+  },
+  {
+    "eval_id": "EVAL_00136",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/026939XLSEAGRE_3.png",
+    "summary": "A light green, short-sleeved T-shirt with a colorful graphic print, paired with dark blue jeans and a black bucket hat.",
+    "recommended_garment": "Dark blue skinny jeans",
+    "color_logic": "The deep blue of the jeans provides a classic contrast to the muted green T-shirt, while the black hat adds a pop of color.",
+    "silhouette_logic": "The slim-fit jeans complement the relaxed T-shirt, creating a balanced, modern silhouette."
+  },
+  {
+    "eval_id": "EVAL_00201",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLMDH45BLU38MTR_6.webp?v=1762431696080",
+    "summary": "A white garment with blue geometric stripes, likely a traditional Indian dhoti or similar wrap-around lower garment, styled with a folded corner for presentation.",
+    "recommended_garment": "A royal blue or indigo kurta with subtle gold embroidery, cut in a straight, relaxed fit with mandarin collar.",
+    "color_logic": "The royal blue complements the garment's blue stripes while adding depth and contrast against the white base, creating a harmonious monochromatic palette with a touch of richness from the gold embroidery.",
+    "silhouette_logic": "The straight, relaxed kurta silhouette balances the structured, angular folds of the dhoti, creating a balanced and modern ethnic look without overwhelming the garment's clean lines."
+  },
+  {
+    "eval_id": "EVAL_00390",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/024471MNAVBLU_3.webp?v=1763976422564",
+    "summary": "A long, floor-length A-line dress with a red and gold patterned design, featuring a V-neck and three-quarter sleeves.",
+    "recommended_garment": "A matching red and gold embroidered dupatta for a complete ethnic look.",
+    "color_logic": "The red and gold embroidery on the dupatta complements the gold accents on the dress, creating a cohesive and festive color scheme.",
+    "silhouette_logic": "The A-line silhouette of the dress provides a flattering, elongated look, while the dupatta adds a layer of volume and movement, perfect for a complete ethnic ensemble."
+  },
+  {
+    "eval_id": "EVAL_00177",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/019862XXLTEA_4.png",
+    "summary": "A blue tunic-style top with a leafy white pattern, featuring a round neckline, three-quarter sleeves, and a relaxed, slightly flared silhouette.",
+    "recommended_garment": "White high-waisted wide-leg pants with a subtle pleated detail at the waist, in a soft cotton or linen blend.",
+    "color_logic": "The crisp white of the pants creates a clean, contrasting backdrop that enhances the blue and white pattern of the top, making the design pop while maintaining a balanced, harmonious palette.",
+    "silhouette_logic": "The relaxed, flared cut of the tunic pairs beautifully with wide-leg pants to create a flowing, effortless silhouette that elongates the figure and adds movement, avoiding any visual bulk or restriction."
+  },
+  {
+    "eval_id": "EVAL_00490",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/019129XLPIN_3.png",
+    "summary": "A pink kurta with a subtle all-over print, featuring a mandarin collar, three-quarter sleeves, and a straight, slightly flared silhouette with side slits at the hem.",
+    "recommended_garment": "A matching pink or contrasting ivory/cream sharara or palazzo pants with a subtle texture or embroidery detail, to complement the kurta's elegance.",
+    "color_logic": "The pink hue of the kurta is soft and feminine; pairing it with a complementary neutral like ivory or cream creates a harmonious, balanced look that enhances the garment without overwhelming it, while a matching pink adds visual cohesion and sophistication.",
+    "silhouette_logic": "The straight, slightly flared kurta silhouette pairs beautifully with wide-leg palazzo pants or sharara, as both pieces create a balanced, flowing silhouette that elongates the figure and adds graceful movement, especially with the side slits allowing for ease of motion."
+  },
+  {
+    "eval_id": "EVAL_00183",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/028485GREMEL4XL_4.png",
+    "summary": "Grey Slim-Fit Track Pants with White Logo",
+    "recommended_garment": "Black Sneakers",
+    "color_logic": "Monochrome black and grey palette creates a sleek, sporty look that is both stylish and functional for active wear.",
+    "silhouette_logic": "The slim-fit track pants provide a sleek silhouette that complements the athletic stance, while the black sneakers add a grounded, casual finish."
+  },
+  {
+    "eval_id": "EVAL_00384",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/003102LBLA_2.png",
+    "summary": "A mustard yellow crop top with white horizontal stripes, paired with black capri pants and white sneakers.",
+    "recommended_garment": "Black capri pants with a slight slit at the side.",
+    "color_logic": "The mustard yellow top provides a vibrant pop against the neutral black capri pants, while the white sneakers keep the look grounded.",
+    "silhouette_logic": "The capri pants' length and slit create a sleek, athletic silhouette that complements the cropped top's relaxed fit."
+  },
+  {
+    "eval_id": "EVAL_00003",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/018772LPIN_5.png",
+    "summary": "A vibrant coral pink kurta with intricate gold embroidery, featuring a round neckline and pleated hem, paired with traditional jhumka earrings.",
+    "recommended_garment": "A matching gold-embellished dupatta for a complete ethnic ensemble.",
+    "color_logic": "The coral pink provides a warm, festive base while the gold accents add a touch of luxury, creating a harmonious color story.",
+    "silhouette_logic": "The kurta's relaxed fit and pleated hem offer a comfortable silhouette, while the dupatta adds a structured, layered look that elevates the overall outfit."
+  },
+  {
+    "eval_id": "EVAL_00353",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00170PURS_4.webp?v=1758083792651",
+    "summary": "A maroon-colored, knee-length kurti with a textured, possibly crochet or lace-like pattern, featuring three-quarter sleeves and a side slit. The neckline is a V-neck, and the silhouette is straight-cut with a slightly flared hem. Paired with white cropped pants and silver heels.",
+    "recommended_garment": "A cream or ivory-colored, embellished or embroidered dupatta with a soft drape, featuring delicate border work or mirror work to complement the maroon kurti.",
+    "color_logic": "The maroon kurti is a deep, rich tone that pairs beautifully with neutral cream or ivory, creating a classic and elegant contrast that enhances the vibrancy of the kurti without overwhelming it. Cream also balances the intensity of maroon, making the ensemble feel harmonious and sophisticated.",
+    "silhouette_logic": "The straight-cut kurti with a side slit offers a modern, streamlined silhouette. Pairing it with a flowing, lightweight dupatta adds softness and dimension, balancing the structured lines of the kurti and creating a graceful, layered look that enhances the overall silhouette without competing with it."
+  },
+  {
+    "eval_id": "EVAL_00771",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/022181LBLA_2.png",
+    "summary": "Black short-sleeve T-shirt with a yellow graphic print",
+    "recommended_garment": "Light blue denim jeans",
+    "color_logic": "Neutral blue jeans complement the black T-shirt, creating a classic, understated look",
+    "silhouette_logic": "The relaxed fit of the T-shirt combined with the straight-leg jeans offers a balanced, casual silhouette"
+  },
+  {
+    "eval_id": "EVAL_00075",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/00256432DARBLU_2.png",
+    "summary": "Dark navy blue checkered slim-fit trousers with a modern tailored cut, paired with a white crew-neck t-shirt and white sneakers. The trousers have a subtle windowpane check pattern and a slightly tapered leg, giving a sleek, contemporary look.",
+    "recommended_garment": "A structured, cropped blazer in a neutral tone like beige or light gray, with notched lapels and single-breasted design, to add sophistication and balance the casual vibe.",
+    "color_logic": "The neutral beige or light gray blazer complements the dark navy trousers without clashing, creating a balanced monochromatic palette. The white t-shirt acts as a neutral bridge, allowing the blazer to stand out while maintaining harmony with the trousers' deep tone.",
+    "silhouette_logic": "The structured, cropped blazer adds vertical definition and contrast to the slim-fit trousers, preventing the look from appearing too elongated or boxy. The cropped length balances the slim silhouette and allows the white sneakers to remain visible, maintaining a modern, streetwear-inspired aesthetic."
+  },
+  {
+    "eval_id": "EVAL_00518",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/025573BEIXXL_4.webp?v=1765888057453",
+    "summary": "A beige button-down shirt with a classic collar and button placket, featuring a black label with white text.",
+    "recommended_garment": "A matching beige button-down shirt with a black label, creating a cohesive monochrome look.",
+    "color_logic": "The neutral beige color provides a soft, understated base that allows the black label to stand out as a pop of color.",
+    "silhouette_logic": "The shirt's structured collar and button placket give a clean, tailored silhouette that is versatile for various occasions."
+  },
+  {
+    "eval_id": "EVAL_00219",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/023999MBUR_3.png",
+    "summary": "A deep maroon or burgundy traditional Indian garment, likely a kurta or kurti, featuring intricate gold and purple floral embroidery along the neckline and front placket. The embroidery includes repeating motifs with sequins or beads, giving it a festive, ornate look suitable for celebrations or formal occasions.",
+    "recommended_garment": "A matching maroon or burgundy lehenga or skirt with a subtle gold or silver border, paired with a matching choli or blouse with a contrasting gold or silver embellished neckline to echo the embroidery.",
+    "color_logic": "The deep maroon base creates a rich, luxurious foundation. Complementing it with a similar shade of maroon in the skirt maintains visual harmony while allowing the gold embroidery to stand out. The gold accents in the skirt and blouse create a cohesive, opulent look without overwhelming the eye.",
+    "silhouette_logic": "A flared or A-line lehenga complements the fitted or straight-cut kurta, creating a balanced silhouette that enhances the garment's ornate details. The volume of the skirt draws attention to the waist and neckline, highlighting the embroidery and creating a dynamic, celebratory look."
+  },
+  {
+    "eval_id": "EVAL_00953",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/027195CREM_8.png",
+    "summary": "A cream-colored, long-sleeved, button-up shirt with a classic collar and a chest pocket, paired with tailored grey trousers and brown loafers. The shirt has rolled-up sleeves, revealing tattoos on the forearms, and the trousers have a slim, modern cut.",
+    "recommended_garment": "A tailored grey blazer with notch lapels and peak lapel detailing, in a slightly darker shade of grey than the trousers for contrast, with a single-breasted cut and two-button closure.",
+    "color_logic": "The cream shirt and grey trousers create a neutral, sophisticated palette. A darker grey blazer adds depth and visual interest without clashing, maintaining a monochromatic harmony while introducing a subtle tonal variation that elevates the outfit\u2019s formality.",
+    "silhouette_logic": "The slim-fit trousers and tailored blazer create a streamlined, modern silhouette. The blazer\u2019s structured shoulders and clean lines complement the shirt\u2019s classic cut and the trousers\u2019 sleek fit, creating a cohesive, elongated vertical line that enhances the wearer\u2019s posture and proportions."
+  },
+  {
+    "eval_id": "EVAL_00474",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/003608XLRUS_5.png",
+    "summary": "A fitted, short-sleeved polo shirt in a rich rust-orange hue, featuring a classic collar and a small embroidered logo on the left chest. The fabric appears to be a textured knit, likely cotton or a blend, with a tailored fit that accentuates the wearer's physique.",
+    "recommended_garment": "Dark indigo or black tailored trousers with a slim or straight-leg cut, featuring subtle stitching details and a clean, unadorned look.",
+    "color_logic": "The deep rust-orange of the polo creates a warm, earthy tone that pairs beautifully with dark indigo or black. This contrast adds visual depth and sophistication, preventing the look from appearing monochromatic while maintaining a balanced, grounded aesthetic. Dark tones anchor the vibrant hue and enhance its richness without overwhelming the outfit.",
+    "silhouette_logic": "The fitted silhouette of the polo complements the tailored, slim-fit trousers, creating a cohesive, streamlined look that accentuates the wearer's form. This pairing avoids volume clashes and ensures a modern, polished silhouette that is both comfortable and stylish."
+  },
+  {
+    "eval_id": "EVAL_00340",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/019346CORFRESIZ_6.png",
+    "summary": "A sleeveless, smocked camisole-style top with a tie-dye or batik-inspired orange and white pattern, featuring thin spaghetti straps and a fitted, gathered bodice with a ruffled hemline.",
+    "recommended_garment": "A high-waisted, wide-leg palazzo pants in a solid ivory or cream color with a subtle satin sheen, featuring a relaxed drape and a slightly flared silhouette.",
+    "color_logic": "The warm orange and white pattern of the top is balanced by the neutral ivory/cream of the palazzo pants, creating a harmonious monochromatic palette that allows the top's vibrant pattern to stand out without visual clash. The cream color complements the orange tones and enhances the soft, summery feel.",
+    "silhouette_logic": "The fitted, gathered bodice of the top pairs beautifully with the flowing, wide-leg silhouette of the palazzo pants, creating a balanced contrast between structure and fluidity. The ruffled hemline of the top adds movement that echoes the drape of the pants, enhancing the overall graceful, effortless look."
+  },
+  {
+    "eval_id": "EVAL_00341",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00232BEIM_4.webp?v=1760508362291",
+    "summary": "A long, floor-length dress with a floral print, featuring a fitted bodice and a flared skirt, paired with a matching dupatta.",
+    "recommended_garment": "A matching floral print dupatta to be worn as a top layer, adding a soft, layered look.",
+    "color_logic": "The dupatta's floral print echoes the dress's pattern, creating a cohesive, harmonious look.",
+    "silhouette_logic": "The dupatta's drape over the dress adds volume and movement, while the fitted bodice maintains a sleek silhouette."
+  },
+  {
+    "eval_id": "EVAL_00920",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/019189LAQUGRE_4.png",
+    "summary": "A mint green, three-quarter sleeve top with a geometric square pattern, featuring a relaxed, slightly flared silhouette and a round neckline with a small decorative button detail.",
+    "recommended_garment": "White high-waisted straight-leg trousers with a clean, minimalist cut and subtle pleating at the front.",
+    "color_logic": "The mint green top pairs beautifully with white, creating a fresh, clean contrast that enhances the vibrancy of the green while maintaining a balanced, harmonious palette. White is a neutral that allows the pattern and color of the top to stand out without competition.",
+    "silhouette_logic": "The relaxed, flared silhouette of the top pairs well with straight-leg trousers, creating a balanced, modern silhouette that avoids overwhelming the frame. The structured, clean lines of the trousers complement the top's soft, flowing shape without clashing."
+  },
+  {
+    "eval_id": "EVAL_00125",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00461PINFRESIZ_5.webp?v=1766400506361",
+    "summary": "A vibrant pink saree with a golden grid pattern and a detailed golden border, likely made of silk or a similar traditional Indian fabric, featuring a structured, formal design suitable for festive or ceremonial wear.",
+    "recommended_garment": "A matching golden or cream-colored blouse with intricate embroidery or zari work, featuring a fitted yoke and three-quarter sleeves to complement the saree's opulence.",
+    "color_logic": "The golden accents in the saree's border and grid pattern harmonize beautifully with a golden or cream blouse, creating a cohesive, regal look. The neutral cream or gold base of the blouse allows the pink to pop while maintaining visual balance without clashing.",
+    "silhouette_logic": "A fitted blouse with a yoke and three-quarter sleeves enhances the elegance of the saree's structured drape, providing a balanced silhouette that draws attention upward and complements the saree's vertical lines without overwhelming the overall design."
+  },
+  {
+    "eval_id": "EVAL_00188",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00442ROYBLUONESI_2.webp?v=1765949603911",
+    "summary": "A solid blue, rectangular, folded fabric piece, likely a lightweight drape or scarf, with a subtle textured weave and clean edges, suggesting a versatile textile for styling.",
+    "recommended_garment": "A cream or off-white, straight-cut, knee-length A-line skirt with a subtle pleated texture, paired with a fitted ivory or light beige blouse with a modest neckline.",
+    "color_logic": "The vibrant blue of the garment pairs beautifully with neutral tones like cream or off-white, creating a balanced, high-contrast look that highlights the blue without overwhelming the ensemble. Ivory or light beige complements the blue by adding warmth and sophistication, making the outfit feel both modern and timeless.",
+    "silhouette_logic": "The A-line skirt provides a flattering, balanced silhouette that contrasts with the rectangular drape, adding structure and movement to the outfit. The fitted blouse enhances the waistline, creating a harmonious top-to-bottom flow that complements the drape\u2019s soft, fluid nature."
+  },
+  {
+    "eval_id": "EVAL_00415",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLMDS13PUR40_3.webp?v=1767164093463",
+    "summary": "A light pink, short-sleeved shirt with a subtle texture, featuring a classic collar and button placket, suitable for a semi-formal look.",
+    "recommended_garment": "A matching light pink churidar or slim-fit trousers for a cohesive ethnic Western look.",
+    "color_logic": "The soft pink hue provides a gentle contrast to the white background, while the subtle texture adds depth to the overall palette.",
+    "silhouette_logic": "The fitted churidar complements the tailored shirt, creating a streamlined silhouette that is both elegant and comfortable."
+  },
+  {
+    "eval_id": "EVAL_00146",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00418MUSM_3.webp?v=1764130178980",
+    "summary": "A vibrant orange kurti with a marbled texture and white floral embroidery along the neckline and scattered across the front. It features a straight cut, three-quarter sleeves, and a modest round neckline. The fabric appears lightweight and flowing, suitable for semi-formal or festive occasions.",
+    "recommended_garment": "White straight-leg palazzo pants with a subtle satin finish and a high waistline",
+    "color_logic": "The white complement enhances the vibrancy of the orange, creating a clean, high-contrast look that makes the kurti pop. White is a neutral that balances the bold hue without clashing, and it visually elongates the silhouette, adding elegance.",
+    "silhouette_logic": "The straight-leg palazzo pants create a balanced, elongated silhouette that mirrors the kurti's straight cut, avoiding any visual disruption. The high waistline accentuates the waist and elongates the legs, harmonizing with the kurti's modest neckline and flowing drape."
+  },
+  {
+    "eval_id": "EVAL_00147",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/026943XLTUR_2.png",
+    "summary": "A light blue t-shirt with a bold, colorful graphic print featuring the phrase 'When things change inside you, things change around you' in stylized, blocky lettering with yellow, red, and white text on segmented colored backgrounds.",
+    "recommended_garment": "A high-waisted, wide-leg palazzo pants in a neutral beige or soft cream color with subtle embroidery or a textured finish.",
+    "color_logic": "The light blue of the t-shirt pairs beautifully with neutral beige or cream tones, creating a calm, balanced contrast that allows the vibrant graphic to stand out without visual clash. These neutrals also enhance the garment's modern, inspirational message by grounding it in serenity.",
+    "silhouette_logic": "The loose, flowing silhouette of palazzo pants complements the relaxed, casual cut of the t-shirt, creating a harmonious, effortless look. The wide-leg cut adds elegance and movement, balancing the graphic's boldness with graceful lines."
+  },
+  {
+    "eval_id": "EVAL_00267",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/018408XXLBABPIN_7.png",
+    "summary": "Pink short-sleeve T-shirt with black text, paired with black cargo pants and white sneakers",
+    "recommended_garment": "Black cargo pants with multiple pockets, wide-leg cut",
+    "color_logic": "Contrasting black and white for a clean, modern look",
+    "silhouette_logic": "Relaxed fit of the T-shirt with straight-leg cargo pants for a balanced silhouette"
+  },
+  {
+    "eval_id": "EVAL_00200",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00243OLIM_3.webp?v=1760510984658",
+    "summary": "A mustard-yellow kurti with white floral print, featuring a V-neckline, three-quarter sleeves, and a straight, knee-length cut with a side slit.",
+    "recommended_garment": "White palazzo pants with a wide-leg, flowing silhouette, in a lightweight fabric like chiffon or crepe.",
+    "color_logic": "The white palazzo pants create a clean, high-contrast contrast against the mustard-yellow kurti, enhancing the vibrancy of the floral print while maintaining visual harmony through the neutral white base. This pairing avoids clashing tones and allows the kurti's color to stand out.",
+    "silhouette_logic": "The wide-leg palazzo pants complement the straight, modest cut of the kurti by adding volume and movement to the lower half, balancing the structured upper body and creating a graceful, elongated silhouette. The side slit in the kurti also pairs well with the flow of the palazzo pants for a seamless, fluid look."
+  },
+  {
+    "eval_id": "EVAL_00852",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/013288XLMUS_7.png",
+    "summary": "A mustard-yellow, long-sleeved, A-line dress with a fitted bodice, pleated skirt, and ruffled sleeves, featuring subtle embroidery or texture on the bodice and a flowing, layered skirt.",
+    "recommended_garment": "A matching mustard-yellow dupatta with delicate gold embroidery and a soft, lightweight fabric like chiffon or georgette, draped over the shoulders or held in hand.",
+    "color_logic": "The mustard-yellow base of the dress is rich and warm; pairing it with a complementary shade of mustard-yellow dupatta creates a monochromatic, harmonious look that enhances the garment's elegance without visual clash.",
+    "silhouette_logic": "The A-line silhouette of the dress is balanced and flowing; a lightweight, draped dupatta adds softness and dimension to the upper body, complementing the structured bodice and pleated skirt without overwhelming the overall silhouette."
+  },
+  {
+    "eval_id": "EVAL_00095",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/016253GREXXL_7.png",
+    "summary": "A knee-length A-line dress with a floral print, featuring a fitted bodice, three-quarter sleeves, and a flared skirt with ruffles.",
+    "recommended_garment": "A matching black clutch bag for a polished look.",
+    "color_logic": "The neutral grey base of the dress is complemented by the black clutch, creating a sophisticated monochrome palette.",
+    "silhouette_logic": "The A-line silhouette of the dress provides a flattering, feminine shape, while the clutch adds a touch of elegance."
+  },
+  {
+    "eval_id": "EVAL_00508",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/02824940GRE_3.png",
+    "summary": "Light blue short-sleeve T-shirt with black graphic text",
+    "recommended_garment": "Black leather biker jacket",
+    "color_logic": "Light blue T-shirt with black graphic provides a cool, monochrome contrast that highlights the biker jacket's sleek lines",
+    "silhouette_logic": "The biker jacket's structured cut over the T-shirt adds a modern, edgy silhouette that complements the casual yet polished look"
+  },
+  {
+    "eval_id": "EVAL_00024",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLMTS03DUS38_5.webp?v=1757395754168",
+    "summary": "A light pink sleeveless tank top with a subtle, distressed 'Unbound' graphic.",
+    "recommended_garment": "A matching light pink sleeveless tank top with a distressed 'Unbound' graphic.",
+    "color_logic": "The soft pink hue provides a cohesive, understated look that complements the neutral background.",
+    "silhouette_logic": "The sleeveless design offers a sleek, streamlined silhouette that highlights the wearer's shoulders and arms while maintaining a relaxed fit."
+  },
+  {
+    "eval_id": "EVAL_00128",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/024850BLUM_2.png",
+    "summary": "A navy blue, short-sleeved, button-up shirt with a subtle geometric or abstract pattern, featuring a classic collar and a structured, tailored fit.",
+    "recommended_garment": "A pair of charcoal grey or black tailored trousers with a straight or slightly tapered cut, possibly with a subtle texture like twill or linen blend.",
+    "color_logic": "The deep navy blue of the shirt pairs elegantly with charcoal grey or black, creating a sophisticated monochromatic palette that enhances the garment's formality and visual cohesion. These neutral tones avoid clashing with the shirt's pattern while allowing the shirt to remain the focal point.",
+    "silhouette_logic": "The tailored, structured cut of the shirt pairs well with straight or tapered trousers that maintain a clean, modern silhouette. This creates a balanced, streamlined look that elongates the figure and emphasizes a polished, professional aesthetic without overwhelming the upper body."
+  },
+  {
+    "eval_id": "EVAL_00584",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/016185XXLMAU_1.png",
+    "summary": "A white short-sleeved t-shirt with vertical maroon stripes and a subtle embroidered logo on the chest, paired with black cropped trousers and white sneakers. The t-shirt has a relaxed, casual fit with a round neckline.",
+    "recommended_garment": "A structured, knee-length black trench coat with a notched lapel and belted waist, worn open over the t-shirt and trousers.",
+    "color_logic": "The black trench coat complements the black trousers and creates a cohesive monochromatic base, while the white t-shirt and white sneakers provide contrast that makes the outfit pop. The maroon stripes on the t-shirt add a subtle pop of color that harmonizes with the classic black-and-white palette, enhancing visual interest without overwhelming the look.",
+    "silhouette_logic": "The structured, tailored silhouette of the trench coat adds vertical definition and balance to the relaxed fit of the t-shirt and cropped trousers. The belted waist accentuates the waistline, creating a flattering hourglass shape that contrasts with the loose upper body, while the knee-length cut of the trench coat elongates the leg line and balances the cropped trousers."
+  },
+  {
+    "eval_id": "EVAL_00399",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/022217MORA_4.png",
+    "summary": "A vibrant orange crew-neck t-shirt featuring a large, stylized white daisy with a blue center and black eyes, with cursive text reading 'Farewell to the World' and 'good things are' below. The brand tag 'DIFFERENCE OF OPINION' is visible at the collar.",
+    "recommended_garment": "A high-waisted, wide-leg beige linen palazzo pants with subtle embroidery along the hem and side seams.",
+    "color_logic": "The warm orange of the t-shirt pairs beautifully with neutral beige, creating a balanced, earthy contrast that allows the bold graphic to stand out without visual clash. Beige complements orange by grounding the look while enhancing its vibrancy.",
+    "silhouette_logic": "The relaxed, oversized silhouette of the palazzo pants complements the casual, loose fit of the t-shirt, creating a harmonious, effortless look. The wide legs add movement and balance to the top-heavy graphic tee, preventing the outfit from appearing bulky."
+  },
+  {
+    "eval_id": "EVAL_00050",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00272BLUGREL_4.webp?v=1761550175836",
+    "summary": "A long-sleeve, A-line tunic with a mandarin collar, featuring a muted blue-grey base and intricate white embroidery.",
+    "recommended_garment": "A pair of white churidar pants for a classic ethnic look.",
+    "color_logic": "The deep blue-grey base provides a cool, earthy tone that contrasts beautifully with the crisp white churidar, creating a balanced, harmonious palette.",
+    "silhouette_logic": "The A-line tunic's relaxed fit and the fitted churidar's sleek silhouette create a balanced, elongated look that is both comfortable and stylish."
+  },
+  {
+    "eval_id": "EVAL_00496",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/022981MMAR_5.webp?v=1758694043609",
+    "summary": "A deep red, knee-length dress with a subtle textured pattern, featuring a boat neck and three-quarter sleeves.",
+    "recommended_garment": "A matching deep red clutch bag for a cohesive look.",
+    "color_logic": "The rich red color provides a warm, cohesive look that stands out against the white background.",
+    "silhouette_logic": "The knee-length, straight silhouette offers a sleek, modern look that can be paired with a simple clutch for a polished appearance."
+  },
+  {
+    "eval_id": "EVAL_00408",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/030309NAVBLUM_2.png",
+    "summary": "Black textured shirt with rolled sleeves",
+    "recommended_garment": "Light blue denim jeans",
+    "color_logic": "Classic black and light blue create a fresh, casual contrast suitable for a relaxed yet polished look",
+    "silhouette_logic": "The shirt's relaxed fit with rolled sleeves and the straight-leg jeans provide a balanced, contemporary silhouette"
+  },
+  {
+    "eval_id": "EVAL_00801",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/CLW00474NAVBLUFRESIZ_3.webp?v=1766993107204",
+    "summary": "A deep navy blue silk saree with intricate gold zari work, featuring a traditional Indian drape.",
+    "recommended_garment": "A gold-embellished blouse with a V-neck and short sleeves, designed to pair with the saree.",
+    "color_logic": "The rich navy blue provides a deep, regal base that contrasts beautifully with the warm gold accents, creating a classic Indian ethnic look.",
+    "silhouette_logic": "The blouse's structured V-neck and fitted cut complement the saree's flowing drape, offering a balanced silhouette for a traditional yet modern outfit."
+  },
+  {
+    "eval_id": "EVAL_00022",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/02826738GRE_4.png",
+    "summary": "A long-sleeve crewneck sweater with a herringbone pattern, featuring a muted sage green color and a dark green collar.",
+    "recommended_garment": "A matching dark green scarf for a cohesive look.",
+    "color_logic": "The sage green sweater and dark green scarf create a harmonious monochromatic palette, emphasizing the garment's texture.",
+    "silhouette_logic": "The relaxed fit of the sweater and the added length of the scarf provide a balanced, comfortable silhouette suitable for a casual yet polished appearance."
+  },
+  {
+    "eval_id": "EVAL_00119",
+    "model_type": "teacher",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/017792XXLMAR_3.png",
+    "summary": "A fitted, short-sleeved, deep red crew-neck t-shirt with a subtle embroidered rose and cursive script design on the left chest area.",
+    "recommended_garment": "A high-waisted, wide-leg cream or off-white palazzo pant with a subtle satin finish and a slight flare at the hem.",
+    "color_logic": "The deep red of the t-shirt creates a bold, warm statement, while the cream or off-white pant provides a clean, neutral contrast that allows the red to stand out without clashing. This classic complementary color scheme enhances visual harmony and sophistication.",
+    "silhouette_logic": "The fitted silhouette of the t-shirt accentuates the upper body, and pairing it with wide-leg pants creates a balanced, elongated silhouette that draws attention upward while adding fluidity to the lower half, preventing the look from appearing too boxy or restrictive."
+  },
+  {
+    "eval_id": "EVAL_00465",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/017545XLPIN_7.png",
+    "summary": "A vibrant pink tunic with a round neck and three-quarter sleeves, featuring a subtle button placket.",
+    "recommended_garment": "Dark navy blue jeans",
+    "color_logic": "The bright pink top contrasts beautifully with the deep blue jeans, creating a classic complementary color scheme.",
+    "silhouette_logic": "The tunic's relaxed fit and slightly flared hem provide a balanced silhouette that complements the straight-leg jeans, offering a modern ethnic fusion."
+  },
+  {
+    "eval_id": "EVAL_00964",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/026951GRE38_2.png",
+    "summary": "A long-sleeve grey shirt with a slim fit, featuring a classic collar and button placket, paired with light beige trousers and a black belt.",
+    "recommended_garment": "Light beige chinos with a slim cut, offering a neutral base for the grey shirt.",
+    "color_logic": "The neutral beige of the chinos provides a soft contrast to the cool grey shirt, creating a balanced, understated look.",
+    "silhouette_logic": "The slim-fit chinos complement the tailored shirt, ensuring a sleek, streamlined silhouette suitable for a semi-formal outfit."
+  },
+  {
+    "eval_id": "EVAL_00291",
+    "model_type": "student",
+    "image_url": "https://annachy-prod-assets.s3.ap-south-1.amazonaws.com/pims/products-v1/023202XXLBUR_2.png",
+    "summary": "A maroon kurti with a white floral pattern, featuring a round neck and three-quarter sleeves, paired with a matching A-line skirt.",
+    "recommended_garment": "A matching A-line skirt in a complementary maroon fabric with a white floral print, creating a cohesive look.",
+    "color_logic": "The deep maroon base with white floral accents provides a classic contrast that is both warm and elegant.",
+    "silhouette_logic": "The A-line skirt complements the kurti's A-line silhouette, offering a balanced, feminine shape."
+  }
+]
