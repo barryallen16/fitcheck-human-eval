@@ -9,14 +9,20 @@ export async function saveEvaluation(
   overall_score: number
 ) {
   try {
-    // Connect to the Neon database using DATABASE_URL
-    const sql = neon(`${process.env.DATABASE_URL}`);
+    // Gracefully handle whichever variable Vercel injects
+    const connectionString = process.env.DATABASE_URL || process.env.POSTGRES_URL;
+    if (!connectionString) {
+      throw new Error("Missing Database Connection String");
+    }
+
+    const sql = neon(connectionString);
     
-    // Insert the data using the standard parameter array method from the Neon docs
-    await sql(
-      `INSERT INTO human_evaluations (eval_id, model_type, relevance_score, overall_score) VALUES ($1, $2, $3, $4)`, 
-      [eval_id, model_type, relevance_score, overall_score]
-    );
+    // ⚠️ CRITICAL FIX: No parentheses () around the query. 
+    // The backticks MUST touch the word `sql` directly.
+    await sql`
+      INSERT INTO human_evaluations (eval_id, model_type, relevance_score, overall_score) 
+      VALUES (${eval_id}, ${model_type}, ${relevance_score}, ${overall_score})
+    `;
 
     return { success: true };
   } catch (error) {
